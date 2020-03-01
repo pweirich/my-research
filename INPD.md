@@ -6,7 +6,7 @@ Chelsea and I worked together to digitize and analyze the maps.
 We presented this project at the IU Linguistics Conference in 2017 and at NWAV 46 in Madison, WI.
 A paper based on this project has been submitted to _American Speech_ for review.
 
-Download a [pre-publication draft](./pweirich.github.io/papers/IndianaPDmaps.pdf) of this paper.
+Download a [pre-publication draft](../../pweirich.github.io/papers/IndianaPDmaps.pdf) of this paper.
 
 ## Overview
 
@@ -42,4 +42,4 @@ Aggregate heat maps were generated to summarize areas where Hoosiers believe dif
 
 The map below is an aggregate of all of the responses.
 
-![All_responses](/INPD_images/All_responses.png)
+![All_responses](/INPD_images/All_responses.png =250x)
