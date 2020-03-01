@@ -4,6 +4,9 @@ This is a project that I worked on with Chelsea Bonhotal Kendrick.
 I collected several dozen perceptual dialect maps from native residents of Indiana (Hoosiers).
 Chelsea and I worked together to digitize and analyze the maps.
 We presented this project at the IU Linguistics Conference in 2017 and at NWAV 46 in Madison, WI.
+A paper based on this project has been submitted to _American Speech_ for review.
+
+Download a [pre-publication draft](../pweirich.github.io/papers/IndianaPDmaps.pdf) of this paper.
 
 ## Overview
 
@@ -36,3 +39,7 @@ The labels provided by participants were extracted and subjected to a content an
 Aggregate heat maps were generated to summarize areas where Hoosiers believe different dialects of English are spoken in their state and what they call those ways of speaking.
 
 ## Results
+
+The map below is an aggregate of all of the responses.
+
+![All_responses](/INPD_images/All_responses.pdf)
