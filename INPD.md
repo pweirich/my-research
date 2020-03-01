@@ -43,3 +43,4 @@ Aggregate heat maps were generated to summarize areas where Hoosiers believe dif
 The map below is an aggregate of all of the responses.
 
 ![All_responses](/INPD_images/All_responses.png =250x)
+<img src="/INPD_images/All_responses.png" width="48">
