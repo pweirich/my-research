@@ -51,9 +51,7 @@ It turns out that the northern area is actually three areas:
 + General north
 + An extension of a neutral area
 
-<img src="/INPD_images/All_chicago.png" width="300">
-<img src="/INPD_images/All_north.png" width="300">
-<img src="/INPD_images/All_neutral.png" width="300">
+<img src="/INPD_images/All_chicago.png" width="300"><img src="/INPD_images/All_north.png" width="300"><img src="/INPD_images/All_neutral.png" width="300">
 
 
 
