@@ -41,5 +41,41 @@ Aggregate heat maps were generated to summarize areas where Hoosiers believe dif
 ## Results
 
 The map below is an aggregate of all of the responses.
+Notice that there are three distinct areas indicated: the northern border (in particular, the northwest corner near Chicago), Indianapolis (the capitol city in the center of the state), and the southern third of the state.
 
 <img src="/INPD_images/All_responses.png" width="300">
+
+We can gain some further insights by seeing what people called these different areas.
+It turns out that the northern area is actually three areas:
++ Chicago
++ General north
++ An extension of a neutral area
+
+<img src="/INPD_images/All_chicago.png" width="300">
+<img src="/INPD_images/All_north.png" width="300">
+<img src="/INPD_images/All_neutral.png" width="300">
+
+
+
+The southern part of the state appears to be uniformly considered "southern" as the map below shows.
+
+<img src="/INPD_images/All_south.png" width="300">
+
+But a further analysis of the labels given by participants show that the south is not a single area. Unlike the northern region, though, the south is not divided up into regions, rather it is divided by different associations people have with the south.
++ Rural
++ Twang
++ Drawl
+
+<img src="/INPD_images/All_rural.png" width="300">
+<img src="/INPD_images/twang.png" width="300">
+<img src="/INPD_images/drawl.png" width="300">
+
+## Takeaways
+
+Hoosiers believe there are 3 or 4 dialect regions in their state.
+They are certain that there is a Southern dialect and a Chicago dialect, but they are less certain about what the way of speaking in the other parts of the state.
+Some people distinguish between a general Northern region and a middle region, but others say that it is all just a "neutral" or "standard" way of speaking.
+
+An important takeaway is that people don't have a single, flat understanding of these dialect regions.
+The Northern region can be associated with Chicago, a general idea of northern, and a standard way of speaking.
+The Southern region can be associated with a general idea of southern, a rural way of life, and particular ways of speaking with a "twang" or a "drawl".
