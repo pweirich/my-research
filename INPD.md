@@ -65,8 +65,7 @@ But a further analysis of the labels given by participants show that the south i
 + Drawl
 
 <img src="/INPD_images/All_rural.png" width="300">
-<img src="/INPD_images/twang.png" width="300">
-<img src="/INPD_images/drawl.png" width="300">
+<img src="/INPD_images/twang.png" width="300"><img src="/INPD_images/drawl.png" width="300">
 
 ## Takeaways
 
